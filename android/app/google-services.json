@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15257117891",
+    "project_id": "cryptocoin-6f4e9",
+    "storage_bucket": "cryptocoin-6f4e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15257117891:android:35448c5b3c380ae85d6e76",
+        "android_client_info": {
+          "package_name": "com.iqonic.cryptocoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15257117891-fgl17gdkt8jurp7h0mkd2nf5ubqfgvpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWmyozcKS0D8JhUbPwGpxFXPrU4kc78lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15257117891-fgl17gdkt8jurp7h0mkd2nf5ubqfgvpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
